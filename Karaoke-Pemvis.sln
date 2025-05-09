@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36105.17 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Karaoke-Pemvis", "Karaoke-Pemvis\Karaoke-Pemvis.csproj", "{AB85D509-D070-4BA9-BF32-6267A51D4F28}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AB85D509-D070-4BA9-BF32-6267A51D4F28}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB85D509-D070-4BA9-BF32-6267A51D4F28}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB85D509-D070-4BA9-BF32-6267A51D4F28}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB85D509-D070-4BA9-BF32-6267A51D4F28}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1686205E-36FF-421B-BCF3-07B637DC3F11}
+	EndGlobalSection
+EndGlobal
